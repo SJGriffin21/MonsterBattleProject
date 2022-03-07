@@ -9,16 +9,16 @@ Run the main file
 Select battle mode end enter in the file names when prompted
 
 ## Examples
-###Monster files
-####giant.txt
+### Monster files
+#### giant.txt
 Giant
 100
 15
-####vampire.txt
+#### vampire.txt
 Vampire
 150
 10
-###Running program 
+### Running program 
 Run main file and select battle mode
 When prompted, type giant.txt, then vampire.txt
 The program will have them battle and declare a winner 
